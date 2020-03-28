@@ -1,0 +1,616 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.8.10)  2 FEB 2020 15:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**document.tex
+(./document.tex
+LaTeX2e <2018-12-01>
+(c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(c:/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(c:/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(c:/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box27
+\@float@everytoks=\toks17
+\@floatcapt=\box28
+)
+(c:/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks18
+\c@algorithm=\count92
+)
+(c:/texlive/2019/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count93
+\c@ALC@line=\count94
+\c@ALC@rem=\count95
+\c@ALC@depth=\count96
+\ALC@tlm=\skip43
+\algorithmicindent=\skip44
+)
+(c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen111
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen112
+\subfiglabelskip=\skip48
+\c@subfigure=\count97
+\c@lofdepth=\count98
+\c@subtable=\count99
+\c@lotdepth=\count100
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen115
+\lightrulewidth=\dimen116
+\cmidrulewidth=\dimen117
+\belowrulesep=\dimen118
+\belowbottomsep=\dimen119
+\aboverulesep=\dimen120
+\abovetopsep=\dimen121
+\cmidrulesep=\dimen122
+\cmidrulekern=\dimen123
+\defaultaddspace=\dimen124
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen125
+\@belowrulesep=\dimen126
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen127
+)
+(c:/texlive/2019/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box29
+)
+(c:/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count105
+\multirow@dima=\skip52
+\bigstrutjot=\dimen128
+)
+
+LaTeX Warning: Unused global option(s):
+    [utf8].
+
+(./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=731.23584pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen129
+\scratchbox=\box30
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen130
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks20
+) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(c:/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 27.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--30
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 45.
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 45.
+(c:/texlive/2019/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 45.
+
+
+LaTeX Warning: Command \textless invalid in math mode on input line 45.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--107
+
+ []
+
+[1
+
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 141--145
+
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 178--178
+[] []\OT1/cmr/m/n/12 Find and up-date the best po-si-tion among $(\OMS/cmsy/m/n
+/12 f\OML/cmm/m/it/12 Xnew \OT1/cmr/m/n/12 + N\OML/cmm/m/it/12 step\OMS/cmsy/m/
+n/12 g \ \OT1/cmr/m/n/12 [\OML/cmm/m/it/12 Xnew \OMS/cmsy/m/n/12 ^^@
+ []
+
+[4]
+<graph-1.png, id=26, 496.10344pt x 518.6878pt>
+File: graph-1.png Graphic file (type png)
+<use graph-1.png>
+Package pdftex.def Info: graph-1.png  used on input line 208.
+(pdftex.def)             Requested size: 170.71652pt x 178.48843pt.
+<test3-graph-1.png, id=28, 498.36188pt x 520.94624pt>
+File: test3-graph-1.png Graphic file (type png)
+<use test3-graph-1.png>
+Package pdftex.def Info: test3-graph-1.png  used on input line 212.
+(pdftex.def)             Requested size: 170.71652pt x 178.44685pt.
+<graph-2.png, id=29, 496.85625pt x 518.6878pt>
+File: graph-2.png Graphic file (type png)
+<use graph-2.png>
+Package pdftex.def Info: graph-2.png  used on input line 216.
+(pdftex.def)             Requested size: 170.71652pt x 178.21935pt.
+<test3-graph-2.png, id=30, 497.60907pt x 520.94624pt>
+File: test3-graph-2.png Graphic file (type png)
+<use test3-graph-2.png>
+Package pdftex.def Info: test3-graph-2.png  used on input line 220.
+(pdftex.def)             Requested size: 170.71652pt x 178.72507pt.
+<graph-3.png, id=31, 496.10344pt x 518.6878pt>
+File: graph-3.png Graphic file (type png)
+<use graph-3.png>
+Package pdftex.def Info: graph-3.png  used on input line 224.
+(pdftex.def)             Requested size: 170.71652pt x 178.48843pt.
+<test3-graph-3.png, id=32, 496.10344pt x 519.44063pt>
+File: test3-graph-3.png Graphic file (type png)
+<use test3-graph-3.png>
+Package pdftex.def Info: test3-graph-3.png  used on input line 228.
+(pdftex.def)             Requested size: 170.71652pt x 178.7475pt.
+<graph-4.png, id=33, 496.85625pt x 520.94624pt>
+File: graph-4.png Graphic file (type png)
+<use graph-4.png>
+Package pdftex.def Info: graph-4.png  used on input line 238.
+(pdftex.def)             Requested size: 170.71652pt x 178.99533pt.
+<test3-graph-4.png, id=34, 496.85625pt x 518.6878pt>
+File: test3-graph-4.png Graphic file (type png)
+<use test3-graph-4.png>
+Package pdftex.def Info: test3-graph-4.png  used on input line 242.
+(pdftex.def)             Requested size: 170.71652pt x 178.21935pt.
+<graph-5.png, id=35, 498.36188pt x 520.19344pt>
+File: graph-5.png Graphic file (type png)
+<use graph-5.png>
+Package pdftex.def Info: graph-5.png  used on input line 246.
+(pdftex.def)             Requested size: 170.71652pt x 178.18898pt.
+<test3-graph-5.png, id=36, 497.60907pt x 518.6878pt>
+File: test3-graph-5.png Graphic file (type png)
+<use test3-graph-5.png>
+Package pdftex.def Info: test3-graph-5.png  used on input line 250.
+(pdftex.def)             Requested size: 170.71652pt x 177.95026pt.
+<graph-6.png, id=37, 497.60907pt x 520.94624pt>
+File: graph-6.png Graphic file (type png)
+<use graph-6.png>
+Package pdftex.def Info: graph-6.png  used on input line 254.
+(pdftex.def)             Requested size: 170.71652pt x 178.72507pt.
+<test3-graph-6.png, id=38, 496.85625pt x 519.44063pt>
+File: test3-graph-6.png Graphic file (type png)
+<use test3-graph-6.png>
+Package pdftex.def Info: test3-graph-6.png  used on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 178.47801pt.
+<auto-7.png, id=39, 497.60907pt x 520.94624pt>
+File: auto-7.png Graphic file (type png)
+<use auto-7.png>
+Package pdftex.def Info: auto-7.png  used on input line 268.
+(pdftex.def)             Requested size: 170.71652pt x 178.72507pt.
+<test3-auto-7.png, id=40, 496.85625pt x 519.44063pt>
+File: test3-auto-7.png Graphic file (type png)
+<use test3-auto-7.png>
+Package pdftex.def Info: test3-auto-7.png  used on input line 272.
+(pdftex.def)             Requested size: 170.71652pt x 178.47801pt.
+<auto-8.png, id=41, 498.36188pt x 520.19344pt>
+File: auto-8.png Graphic file (type png)
+<use auto-8.png>
+Package pdftex.def Info: auto-8.png  used on input line 276.
+(pdftex.def)             Requested size: 170.71652pt x 178.18898pt.
+<test3-auto-8.png, id=42, 496.85625pt x 518.6878pt>
+File: test3-auto-8.png Graphic file (type png)
+<use test3-auto-8.png>
+Package pdftex.def Info: test3-auto-8.png  used on input line 280.
+(pdftex.def)             Requested size: 170.71652pt x 178.21935pt.
+<auto-9.png, id=43, 497.60907pt x 520.19344pt>
+File: auto-9.png Graphic file (type png)
+<use auto-9.png>
+Package pdftex.def Info: auto-9.png  used on input line 284.
+(pdftex.def)             Requested size: 170.71652pt x 178.4668pt.
+<test3-auto-9.png, id=44, 497.60907pt x 520.19344pt>
+File: test3-auto-9.png Graphic file (type png)
+<use test3-auto-9.png>
+Package pdftex.def Info: test3-auto-9.png  used on input line 288.
+(pdftex.def)             Requested size: 170.71652pt x 178.4668pt.
+<auto-10.png, id=45, 498.36188pt x 523.20468pt>
+File: auto-10.png Graphic file (type png)
+<use auto-10.png>
+Package pdftex.def Info: auto-10.png  used on input line 298.
+(pdftex.def)             Requested size: 170.71652pt x 179.22047pt.
+<test2-auto-10.png, id=46, 498.36188pt x 521.69907pt>
+File: test2-auto-10.png Graphic file (type png)
+<use test2-auto-10.png>
+Package pdftex.def Info: test2-auto-10.png  used on input line 302.
+(pdftex.def)             Requested size: 170.71652pt x 178.70473pt.
+<auto-11.png, id=47, 496.85625pt x 517.18219pt>
+File: auto-11.png Graphic file (type png)
+<use auto-11.png>
+Package pdftex.def Info: auto-11.png  used on input line 306.
+(pdftex.def)             Requested size: 170.71652pt x 177.70203pt.
+<test2-auto-11.png, id=48, 498.36188pt x 520.19344pt>
+File: test2-auto-11.png Graphic file (type png)
+<use test2-auto-11.png>
+Package pdftex.def Info: test2-auto-11.png  used on input line 310.
+(pdftex.def)             Requested size: 170.71652pt x 178.18898pt.
+<auto-12.png, id=49, 496.85625pt x 519.44063pt>
+File: auto-12.png Graphic file (type png)
+<use auto-12.png>
+Package pdftex.def Info: auto-12.png  used on input line 314.
+(pdftex.def)             Requested size: 170.71652pt x 178.47801pt.
+<test2-auto-12.png, id=50, 496.85625pt x 520.19344pt>
+File: test2-auto-12.png Graphic file (type png)
+<use test2-auto-12.png>
+Package pdftex.def Info: test2-auto-12.png  used on input line 318.
+(pdftex.def)             Requested size: 170.71652pt x 178.73666pt.
+File: auto-7.png Graphic file (type png)
+<use auto-7.png>
+Package pdftex.def Info: auto-7.png  used on input line 327.
+(pdftex.def)             Requested size: 133.72786pt x 139.99759pt.
+<test2-auto-7.png, id=51, 497.60907pt x 522.45187pt>
+File: test2-auto-7.png Graphic file (type png)
+<use test2-auto-7.png>
+Package pdftex.def Info: test2-auto-7.png  used on input line 332.
+(pdftex.def)             Requested size: 133.72786pt x 140.4022pt.
+File: test3-auto-7.png Graphic file (type png)
+<use test3-auto-7.png>
+Package pdftex.def Info: test3-auto-7.png  used on input line 336.
+(pdftex.def)             Requested size: 133.72786pt x 139.80698pt.
+File: auto-8.png Graphic file (type png)
+<use auto-8.png>
+Package pdftex.def Info: auto-8.png  used on input line 342.
+(pdftex.def)             Requested size: 133.72786pt x 139.58098pt.
+<test2-auto-8.png, id=52, 496.10344pt x 517.18219pt>
+File: test2-auto-8.png Graphic file (type png)
+<use test2-auto-8.png>
+Package pdftex.def Info: test2-auto-8.png  used on input line 347.
+(pdftex.def)             Requested size: 133.72786pt x 139.40431pt.
+File: test3-auto-8.png Graphic file (type png)
+<use test3-auto-8.png>
+Package pdftex.def Info: test3-auto-8.png  used on input line 351.
+(pdftex.def)             Requested size: 133.72786pt x 139.60435pt.
+File: auto-9.png Graphic file (type png)
+<use auto-9.png>
+Package pdftex.def Info: auto-9.png  used on input line 357.
+(pdftex.def)             Requested size: 133.72786pt x 139.79529pt.
+<test2-auto-9.png, id=53, 497.60907pt x 520.19344pt>
+File: test2-auto-9.png Graphic file (type png)
+<use test2-auto-9.png>
+Package pdftex.def Info: test2-auto-9.png  used on input line 362.
+(pdftex.def)             Requested size: 133.72786pt x 139.79529pt.
+File: test3-auto-9.png Graphic file (type png)
+<use test3-auto-9.png>
+Package pdftex.def Info: test3-auto-9.png  used on input line 366.
+(pdftex.def)             Requested size: 133.72786pt x 139.79529pt.
+File: auto-10.png Graphic file (type png)
+<use auto-10.png>
+Package pdftex.def Info: auto-10.png  used on input line 372.
+(pdftex.def)             Requested size: 133.72786pt x 140.38896pt.
+File: test2-auto-10.png Graphic file (type png)
+<use test2-auto-10.png>
+Package pdftex.def Info: test2-auto-10.png  used on input line 377.
+(pdftex.def)             Requested size: 133.72786pt x 139.98497pt.
+<test3-auto-10.png, id=54, 497.60907pt x 518.6878pt>
+File: test3-auto-10.png Graphic file (type png)
+<use test3-auto-10.png>
+Package pdftex.def Info: test3-auto-10.png  used on input line 381.
+(pdftex.def)             Requested size: 133.72786pt x 139.39067pt.
+ [5] [6 <./graph-1.png> <./test3-graph-1.png> <./graph-2.png> <./test3-graph-2.
+png> <./graph-3.png> <./test3-graph-3.png>] [7 <./graph-4.png> <./test3-graph-4
+.png> <./graph-5.png> <./test3-graph-5.png> <./graph-6.png> <./test3-graph-6.pn
+g>] [8 <./auto-7.png> <./test3-auto-7.png> <./auto-8.png> <./test3-auto-8.png> 
+<./auto-9.png> <./test3-auto-9.png>] [9 <./auto-10.png> <./test2-auto-10.png> <
+./auto-11.png> <./test2-auto-11.png> <./auto-12.png> <./test2-auto-12.png>]
+[10 <./test2-auto-7.png> <./test2-auto-8.png> <./test2-auto-9.png> <./test3-aut
+o-10.png>]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 397.
+
+LaTeX Font Info:    Calculating math sizes for size <6.5> on input line 401.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <6.5> not available
+(Font)              size <6> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.54997> not available
+(Font)              size <5> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.25> not available
+(Font)              size <5> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 401.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.5> on input line 401.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.54997> on input line 401.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <3.25> on input line 401.
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <6.5> not available
+(Font)              size <6> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.54997> not available
+(Font)              size <5> substituted on input line 401.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <3.25> not available
+(Font)              size <5> substituted on input line 401.
+
+
+Overfull \hbox (35.10632pt too wide) in paragraph at lines 399--422
+ [] 
+ []
+
+[11] (./document.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.75pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2748 strings out of 492609
+ 39460 string characters out of 6132818
+ 119403 words of memory out of 5000000
+ 6595 multiletter control sequences out of 15000+600000
+ 10085 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,25p,800b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2019/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2019/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
+pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2019/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti12.pfb>
+Output written on document.pdf (11 pages, 3455754 bytes).
+PDF statistics:
+ 157 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+
