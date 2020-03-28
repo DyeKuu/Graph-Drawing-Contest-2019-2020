@@ -1,0 +1,8 @@
+/2 /2
+/10 /10
+iteration: 1 crossings: 496
+iteration: 2 crossings: 144
+iteration: 3 crossings: 120
+iteration: 4 crossings: 154
+true
+39
