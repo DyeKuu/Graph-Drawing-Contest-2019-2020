@@ -1,21 +1,29 @@
 
-
+![](https://raw.github.com/DyeKuu/Graph-Drawing-Contest-2019-2020/master/report/icon.jpg)
 # Java project for Graph Drawing Contest 2019-2020
 ### Author: Yuyang ZHAO, Kunhao ZHENG, Luca Castelli Aleardi
 
+## Table of Contents
+- [How to run](#howtorun)
+- [Hierarchical organization](#hierarchicalorganization)
+- [UpwardDrawing presentation](#upwardDrawingpresentation)
+- [Node and NodeSegment presentation](#nodeandNodeSegmentpresentation)
+- [DirectedGraph presentation](#directedGraphpresentation)
+- [License](#license)
 
-How to run
-====
+
+# How to run
+
 The folder contains 
-- readme.md 
+- README.md 
 - folder result (where the result are stored)
 - folder report (where the latex files and figures are stored)
 - folder Project (where the eclipse project are stored)
 
 
 
-Hierarchical organization
-==============
+# Hierarchical organization
+
 ## Defaut Class
 - ComputeUpwardGridDrawing
     - Test (We add) 
@@ -39,8 +47,8 @@ Hierarchical organization
 ## Package jdg-utils
 - Print
 
-UpwardDrawing presentation
-======
+# UpwardDrawing presentation
+
 This is our main class where we develop different algorithms and methods.
 
 - isValid()
@@ -68,8 +76,7 @@ Other pre-processing methods of the graph.
 - centralize()
 - preAffineTransform()
 
-Node and NodeSegment presentation
-========
+# Node and NodeSegment presentation
 
 Node
 ----
@@ -200,8 +207,7 @@ This method mainly use 4 cross product to judge whether two ends of one segment 
 }
 ```
 
-DirectedGraph presentation
-====
+# DirectedGraph presentation
 We have added the instance to store directly the edges of the graph.
 
 ```
@@ -254,3 +260,6 @@ We have added several methods as below.
 
     This method returns the crossing number of this seg plusing the number of its source segments and target segments.
 
+# License
+
+[GNU Affero General Public License v3.0](https://raw.githubusercontent.com/DyeKuu/Graph-Drawing-Contest-2019-2020/master/LICENSE)
