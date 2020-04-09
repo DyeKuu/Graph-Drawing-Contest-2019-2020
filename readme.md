@@ -1,7 +1,7 @@
 
 
-# This is a Java project for Graph Drawing Contest 2019-2020
-## Author: Yuyang ZHAO, Kunhao ZHENG, Luca Castelli Aleardi
+# Java project for Graph Drawing Contest 2019-2020
+### Author: Yuyang ZHAO, Kunhao ZHENG, Luca Castelli Aleardi
 
 
 How to run
