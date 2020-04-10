@@ -1,6 +1,7 @@
 
 ![](https://raw.github.com/DyeKuu/Graph-Drawing-Contest-2019-2020/master/report/icon.jpg)
 # Java project for Graph Drawing Contest 2019-2020
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 ### Author: Yuyang ZHAO, Kunhao ZHENG, Luca Castelli Aleardi
 
 ## Table of Contents
