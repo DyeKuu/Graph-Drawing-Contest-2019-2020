@@ -8,7 +8,7 @@
 - [How to run](#how-to-run)
 - [Hierarchical organization](#hierarchical-organization)
 - [UpwardDrawing presentation](#upwarddrawing-presentation)
-- [Node and NodeSegment presentation](#nodeandnodesegment-presentation)
+- [Node and NodeSegment presentation](#node-and-nodesegment-presentation)
 - [DirectedGraph presentation](#directedgraph-presentation)
 - [License](#license)
 
