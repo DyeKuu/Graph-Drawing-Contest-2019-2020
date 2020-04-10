@@ -6,10 +6,10 @@
 
 ## Table of Contents
 - [How to run](#how-to-run)
-- [Hierarchical organization](#hierarchicalorganization)
-- [UpwardDrawing presentation](#upwardDrawingpresentation)
-- [Node and NodeSegment presentation](#nodeandNodeSegmentpresentation)
-- [DirectedGraph presentation](#directedGraphpresentation)
+- [Hierarchical organization](#hierarchical-organization)
+- [UpwardDrawing presentation](#upwarddrawing-presentation)
+- [Node and NodeSegment presentation](#nodeandnodesegment-presentation)
+- [DirectedGraph presentation](#directedgraph-presentation)
 - [License](#license)
 
 
