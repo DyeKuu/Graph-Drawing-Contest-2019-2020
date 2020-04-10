@@ -263,4 +263,4 @@ We have added several methods as below.
 
 # License
 
-[GNU Affero General Public License v3.0](https://raw.githubusercontent.com/DyeKuu/Graph-Drawing-Contest-2019-2020/master/LICENSE)
+[GNU Lesser General Public License v3.0](https://raw.githubusercontent.com/DyeKuu/Graph-Drawing-Contest-2019-2020/master/LICENSE)
