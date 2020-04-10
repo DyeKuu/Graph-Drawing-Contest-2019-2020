@@ -5,7 +5,7 @@
 ### Author: Yuyang ZHAO, Kunhao ZHENG, Luca Castelli Aleardi
 
 ## Table of Contents
-- [How to run](#howtorun)
+- [How to run](#how-to-run)
 - [Hierarchical organization](#hierarchicalorganization)
 - [UpwardDrawing presentation](#upwardDrawingpresentation)
 - [Node and NodeSegment presentation](#nodeandNodeSegmentpresentation)
